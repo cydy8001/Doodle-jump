@@ -1,3 +1,3 @@
 # Doodle-jump
 
-Doodle jump is made by Assembly language by using JAR file Mars4_5.jar
+Doodle jump is made by Assembly language by using MIPS Assembler and Runtime Simulator Mars4_5.jar
